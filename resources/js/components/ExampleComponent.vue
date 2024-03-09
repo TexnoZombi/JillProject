@@ -7,6 +7,7 @@
 
                     <div class="card-body">
                         I'm an example component.
+                        <button class="btn btn-primary" @click="test()">Test</button>
                     </div>
                 </div>
             </div>
