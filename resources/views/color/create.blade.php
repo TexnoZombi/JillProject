@@ -21,7 +21,7 @@
   <section class="content">
     <div class="container-fluid">
       <!-- Small boxes (Stat box) -->
-      <div class="row">
+      <div class="row ">
         <form action="{{ route('color.store') }}" method="POST">
             @csrf
             <div class="form-group">
